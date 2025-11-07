@@ -31,7 +31,7 @@
   <img src="https://i.imgur.com/RVGaecC.png" width="100%" alt="Banner Proyecto Integrador 2025">
 </p>
 
-### Introducción
+### introducción
 
 En este proyecto estamos configurando una **Raspberry Pi** para que funcione como un **router o simulador de router**, gestionando distintos servicios de red.  
 Hasta el momento hemos trabajado y configurado servicios como **SSH**, **Xorg** y **DHCP**, los cuales nos permitieron acceder de forma remota, redirigir interfaces gráficas y asignar direcciones IP dinámicas dentro de la red.  
@@ -60,7 +60,7 @@ Para comprobar el correcto funcionamiento del servicio, utilizaremos clientes co
 
 ## 📘 Índice
 
-1. [Introducción](#introduccion)  
+1. [Introducción](#introducción)  
 2. [Objetivo](#objetivo)  
 3. [Glosario](#glosario)  
 4. [Pasos](#pasos)  
@@ -159,3 +159,4 @@ La correcta configuración de un servidor FTP en la Raspberry Pi ofrece una vali
 <p align="center">
   <img src="https://i.imgur.com/iPxDSQA.png" width="100%" alt="Banner Proyecto Integrador 2025">
 </p>
+
