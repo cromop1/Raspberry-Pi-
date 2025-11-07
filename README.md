@@ -31,6 +31,23 @@
   <img src="https://i.imgur.com/RVGaecC.png" width="100%" alt="Banner Proyecto Integrador 2025">
 </p>
 
+<div align="center">
+
+## 📘 Índice
+
+[1 - Introducción](#introducción)  
+[2 - Objetivo](#objetivo)  
+[3 - Glosario](#glosario)  
+[4 - Pasos](#pasos)  
+[5 - Conclusión](#conclusión)
+
+</div>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/RVGaecC.png" width="100%" alt="Banner Proyecto Integrador 2025">
+</p>
+
 ### introducción
 
 En este proyecto estamos configurando una **Raspberry Pi** para que funcione como un **router o simulador de router**, gestionando distintos servicios de red.  
@@ -57,14 +74,6 @@ Para comprobar el correcto funcionamiento del servicio, utilizaremos clientes co
 <p align="center">
   <img src="https://i.imgur.com/RVGaecC.png" width="100%" alt="Banner Proyecto Integrador 2025">
 </p>
-
-## 📘 Índice
-
-1. [Introducción](#introducción)  
-2. [Objetivo](#objetivo)  
-3. [Glosario](#glosario)  
-4. [Pasos](#pasos)  
-5. [Conclusión](#conclusión)
 
 
 
@@ -158,5 +167,6 @@ La correcta configuración de un servidor FTP en la Raspberry Pi ofrece una vali
 <p align="center">
   <img src="https://i.imgur.com/iPxDSQA.png" width="100%" alt="Banner Proyecto Integrador 2025">
 </p>
+
 
 
