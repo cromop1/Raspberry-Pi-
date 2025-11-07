@@ -64,8 +64,7 @@ Para comprobar el correcto funcionamiento del servicio, utilizaremos clientes co
 2. [Objetivo](#objetivo)  
 3. [Glosario](#glosario)  
 4. [Pasos](#pasos)  
-   - [Instalación y Configuración de vsftpd](#instalacion-y-configuracion-de-vsftpd)  
-5. [Conclusión](#conclusion)
+5. [Conclusión](#conclusión)
 
 
 
@@ -159,4 +158,5 @@ La correcta configuración de un servidor FTP en la Raspberry Pi ofrece una vali
 <p align="center">
   <img src="https://i.imgur.com/iPxDSQA.png" width="100%" alt="Banner Proyecto Integrador 2025">
 </p>
+
 
